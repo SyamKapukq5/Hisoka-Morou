@@ -1,6 +1,6 @@
 /**
-   * Create By Dika Ardnt.
-   * Contact Me on wa.me/6288292024190
+   * Create By Lord Nya Kita Semua Bersama.
+   * Contact Me on wa.me/6289688069444
    * Follow https://github.com/DikaArdnt
 */
 
@@ -18,23 +18,23 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6283167714830','62895336722950','6287721317870','6288292024190']
-global.premium = ['6288292024190']
-global.packname = 'Hisoka Morrow'
-global.author = 'WhatsApp Bot'
+global.owner = ['6289688069444','6283167714830','62895336722950','6287721317870','6288292024190','6289688069444',''6289688069444','6285795035419','6289647417373','6287892711054','628995404155','62895411075941','62895386445819','62895327934887','6285828764046','6289518487462','6285228906300','6283183321692','6289688069444']
+global.premium = ['6288292024190','6283167714830','62895336722950','6287721317870','6288292024190','6289688069444',''6289688069444','6285795035419','6289647417373','6287892711054','628995404155','62895411075941','62895386445819','62895327934887','6285828764046','6289518487462','6285228906300','6283183321692']
+global.packname = 'Hisoka Morrow By Lord'
+global.author = 'Lord WhatsApp'
 global.sessionName = 'hisoka'
-global.prefa = ['','!','.','🐦','🐤','🗿']
+global.prefa = ['','!','.','🐦','🐤','🗿','#','$','%','@','/@TANDA-TANGAN-PERSETUJUAN-SANG-LORD#','+','-','_','~','/','>','√','»','«','P']
 global.sp = '⭔'
 global.mess = {
-    success: '✓ Success',
-    admin: 'Fitur Khusus Admin Group!',
-    botAdmin: 'Bot Harus Menjadi Admin Terlebih Dahulu!',
-    owner: 'Fitur Khusus Owner Bot',
-    group: 'Fitur Digunakan Hanya Untuk Group!',
-    private: 'Fitur Digunakan Hanya Untuk Private Chat!',
-    bot: 'Fitur Khusus Pengguna Nomor Bot',
-    wait: 'Loading...',
-    endLimit: 'Limit Harian Anda Telah Habis, Limit Akan Direset Setiap Jam 12',
+    success: '✓ Success Bro',
+    admin: 'Yang Dapat Melakukan Ini Hanya Admin Saja Yang Bisa!',
+    botAdmin: 'Jadikan Saya Menjadi Admin Agar Fitur Tersebut Bisa Di Gunakan!',
+    owner: 'Hanya Owner Yang Dapat Melakukannya',
+    group: 'Hanya Dapat Digunakan Di Dalam Grup Saja!',
+    private: 'Gunakan Fitur Ini Di Chat Pribadi Saja!',
+    bot: 'Khusus Pengguna Bot Atau Nomor Bot Saja Yang Dapat Melakukannya',
+    wait: 'Sabar Sedang Loading/Memuat...',
+    endLimit: 'Limit Harian Anda Telah Habis, Limit Akan Direset Setiap Jam 12, Silahkan Tunggu Hingga Waktu Tersebut, Sabar Ya',
 }
 global.limitawal = {
     premium: "Infinity",
